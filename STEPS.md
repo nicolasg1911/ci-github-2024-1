@@ -12,3 +12,4 @@ For the automation, I created the .github/workflow directory
 <img src="images/directory.png"><br>
 
 Finally, I excecuted the workflow
+<img src="images/actions.png"><br>
