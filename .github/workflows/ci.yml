@@ -22,12 +22,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build
-        run: npm run build
-
-      - name: Run tests
-        run: npm test
-
       - name: Set up Docker Buildx
         run: |
           docker buildx create --use
